@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 /*
 +-----------------------------------------------------------------------+
@@ -229,6 +229,10 @@ $labels['female'] = 'ស្រី';
 $labels['manager'] = 'នាយក';
 $labels['assistant'] = 'ការិនី';
 $labels['spouse'] = 'គ្រួសារ';
+$labels['allfields'] = 'ជួរទាំងអស់';
+$labels['search'] = 'ស្វែងរក';
+$labels['advsearch'] = 'ស្វែងរក';
+$labels['other'] = 'ផ្សេងទៀត';
 $labels['typehome'] = 'គេហដ្ឋាន';
 $labels['typework'] = 'កន្លែងធ្វើការ';
 $labels['typeother'] = 'ផ្សេងពីនេះ';
